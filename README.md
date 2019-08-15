@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API Rails 6 for Vue Client
 
-Things you may want to cover:
+Stack
 
-* Ruby version
+* Ruby version: 2.5.3
 
-* System dependencies
+* Rails version: 6.0.0.rc2
 
-* Configuration
+* Database: PostgreSQL (9.6)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Serializer: Fast JSON API
 
 * ...
