@@ -1,8 +1,11 @@
-# README
+# API based on Ruby on Rails 6
 
-API Rails 6 for Vue Client
+## Vue Client
 
-Stack
+https://github.com/kevinafernandez/vue_spa_frontend
+
+
+## Stack
 
 * Ruby version: 2.5.3
 
