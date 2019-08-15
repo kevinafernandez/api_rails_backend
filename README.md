@@ -12,4 +12,3 @@ Stack
 
 * Serializer: Fast JSON API
 
-* ...
