@@ -2,12 +2,12 @@ source 'https://rubygems.org'
 
 ruby '2.5.3'
 
-gem 'rails', '~> 6.0.0.rc2'
+gem 'rails', '~> 6.0'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.11'
 gem 'fast_jsonapi'
 gem 'awesome_print'
-gem 'devise'
+gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 
