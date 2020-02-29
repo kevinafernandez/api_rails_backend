@@ -4,7 +4,7 @@ ruby '2.5.3'
 
 gem 'rails', '~> 6.0'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'fast_jsonapi'
 gem 'awesome_print'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
